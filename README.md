@@ -3,11 +3,11 @@
 
 <!-- - 🔭 I’m currently working on [Habit Pulse](https://github.com/Thuthikaran/habit-pulse) -->
 
-- 🌱 I’m currently learning **Ruby on Rails, Node.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/lealpedro2009](https://troopl.com/lealpedro2009)
 
-- 💬 Ask me about **Ruby on Rails, Laravel**
+- 💬 Ask me about **Ruby on Rails, Laravel, Node.JS**
 
 - 📫 How to reach me **lealpedro2009@gmail.com**
 
